@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Articulo</title>
+    <link>https://getarticulo.com</link>
+    <description>Your reading list as a podcast</description>
+    <language>en-us</language>
+    <itunes:author>Me</itunes:author>
+    <itunes:owner>
+      <itunes:name>Articulo</itunes:name>
+      <itunes:email>your@email.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://i.imgur.com/SuIFTNf.jpeg"/>
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    <item>
+      <title>Atchafalaya</title>
+      <description>by John McPhee for The New Yorker</description>
+      <pubDate>Sat., 3 Aug 2024 00:00:01 GMT</pubDate>
+      <enclosure url="https://pomf2.lain.la/f/vys4xe.mp3" length="165742384" type="audio/mpeg"/>
+      <itunes:duration>02:52:39</itunes:duration>
+      <guid>https://getarticulo.com/podcast/atchafalaya</guid>
+      <itunes:image href="https://i.imgur.com/SuIFTNf.jpeg"/>
+    </item>
